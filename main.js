@@ -6,5 +6,3 @@ newdate = month + "/" + day + "/" + year;
 function loadDate() {
   document.getElementById("date").innerHTML = newdate;
 }
-
-loadDate()
